@@ -1,23 +1,16 @@
-🗳️ Voter Dashboard Project
-Overview
-Welcome to the Voter Dashboard Project! This web-based application provides an intuitive and user-friendly interface for monitoring voter statistics and election-related data in real-time.
+<h1 align="center">🗳️ Voter Dashboard Project</h1>
 
-🖥️ Tech Stack
-HTML5 for structured content
-CSS3 for custom styling and layout
-JavaScript for dynamic behavior and interactivity
-🚀 Features
-Key Components:
-Dashboard Overview: Displays crucial voter statistics.
-Sidebar Navigation: Allows easy access to different sections like Provincial Consistency, Polling Stations, and more.
-Responsive Cards: Dynamic, sleek cards display data such as total votes, gender breakdowns, and winning targets.
-Visual Breakdown:
-Header: Displays app title and user profile icon.
-Sidebar: A collapsible navigation menu providing access to all major sections.
-Data Cards:
-Total Votes
-Male & Female Votes Breakdown
-Winning Targets & Approved App Users
-Coordinator Breakdown (UC & PS coordinators)
-Family Size & Age Bracket Insights
-📋 Setup Instructions
+<h2>Overview</h2>
+<p>Welcome to the Voter Dashboard Project! This web-based application provides an intuitive and user-friendly interface for monitoring voter statistics and election-related data in real-time.</p>
+
+<h2>🖥️ Tech Stack</h2>
+<ul>
+  <li><b>HTML5:</b> For structured content</li>
+  <li><b>CSS3:</b> For custom styling and layout</li>
+  <li><b>JavaScript:</b> For dynamic behavior and interactivity</li>
+</ul>
+
+<h2>🚀 Features</h2>
+<h3>Key Components:</h3>
+<ul>
+  <li><b
