@@ -36,9 +36,8 @@
 <h2>📋 Setup Instructions</h2>
 <ol>
   <li>📂 Clone the repository:
-    <pre>
-      <code>git clone https://github.com/syedmaazsaeed/voter-dashboard.git</code>
-    </pre>
+    <code><a href="https://github.com/syedmaazsaeed/voter-dashboard.git" target="_blank">git clone https://github.com/syedmaazsaeed/voter-dashboard.git</a></code>
+
   </li>
   <li>💻 Open the project in your preferred code editor.</li>
   <li>🌐 Open <b>index.html</b> in your browser to see the dashboard live!</li>
