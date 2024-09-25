@@ -1,7 +1,7 @@
 <h1 align="center">🗳️ Voter Dashboard Project</h1>
 
 <h2>Overview</h2>
-<p>Welcome to the Voter Dashboard Project! This web-based application provides an intuitive and user-friendly interface for monitoring voter statistics and election-related data in real-time.</p>
+<p>Welcome to the Voter Dashboard Project! This web-based application provides an intuitive and user-friendly interface for monitoring voter statistics and election-related data in real time.</p>
 
 <h2>🖥️ Tech Stack</h2>
 <ul>
@@ -29,7 +29,7 @@
   <li>Total Votes</li>
   <li>Male & Female Votes Breakdown</li>
   <li>Winning Targets & Approved App Users</li>
-  <li>Coordinator Breakdown (UC & PS coordinators)</li>
+  <li>Coordinator Breakdown (UC & PS coordinators</li>
   <li>Family Size & Age Bracket Insights</li>
 </ul>
 
@@ -37,7 +37,7 @@
 <ol>
   <li>Clone the repository:
     <pre>
-      <code>git clone https://github.com/yourusername/voter-dashboard.git</code>
+      <code>git clone https://github.com/syedmaazsaeed/voter-dashboard.git</code>
     </pre>
   </li>
   <li>Open the project in your preferred code editor.</li>
